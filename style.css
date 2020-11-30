@@ -1,0 +1,64 @@
+textarea {
+    width: 100%;
+}
+.line-through {
+    text-decoration: line-through;
+}
+.underline {
+    text-decoration: underline;
+}
+.font-size {
+    font-size: 20px;
+}
+h1 {
+    color: white;
+    padding-bottom: 20px;
+    text-align: center;
+    border-bottom: 2px inset #ececec;
+}
+.format-btn {
+    text-align: center;
+}
+.active {
+    background-color: #ffd500 !important;
+}
+
+.form-group textarea{
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 10px 10px #3e3e3e;
+}
+
+.btn{
+    border: none;
+    border-radius: 5px;
+    margin: 10px;
+    font-size: 17px;
+}
+
+.btn:hover{
+    background: #0c5460;
+}
+
+.red{
+    background: red;
+}
+
+.blue{
+    background: blue;
+}
+
+.green{
+    background: green;
+}
+
+.btn svg{
+    width: 40px;
+    height: 20px;
+}
+
+.section{
+    background: #466067;
+    height: 100vh
+}
